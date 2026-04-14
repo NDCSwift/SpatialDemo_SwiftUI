@@ -12,7 +12,7 @@ SpatialDemo is a visionOS app built with SwiftUI that showcases a tabbed navigat
 - **SwiftUI-first** — no UIKit bridging; built entirely with Apple's recommended patterns for visionOS
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/ggm_B1CCz8k)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
 
