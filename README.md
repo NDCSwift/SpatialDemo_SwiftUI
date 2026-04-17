@@ -11,10 +11,13 @@ SpatialDemo is a visionOS app built with SwiftUI that showcases a tabbed navigat
 - **RealityKit package** — shows how to structure a local Swift package for managing 3D `.rkassets` and USD scenes
 - **SwiftUI-first** — no UIKit bridging; built entirely with Apple's recommended patterns for visionOS
 
+Part 2 with Spatial Depth & Multiple windows can be found here [PART 2 REPO](https://github.com/NDCSwift/visionos-solar-system).
+
 ## 📺 Watch on YouTube
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/ggm_B1CCz8k)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+
 
 ---
 
