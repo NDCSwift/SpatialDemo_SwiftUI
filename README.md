@@ -17,7 +17,7 @@ Part 3 with a volumetric 3D globe (drag-to-rotate, pinch-to-zoom, RealityKit ges
 ## 📺 Watch on YouTube
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/ggm_B1CCz8k)
 
-> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@noahdoescoding).
 
 
 ---
